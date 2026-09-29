@@ -28,7 +28,7 @@ $$
 ###
 
 <div align="center">
-  <sub><a href="https://noreasontostay.atabook.org/">ata</a>  <a href="https://killed-by-an-angel.straw.page/">strawpage</a> <a href="https://steamcommunity.com/profiles/76561199037435157/">steam</a></sub>
+  <sub><a href="https://killed-by-an-angel.straw.page/">strawpage</a> <a href="https://steamcommunity.com/profiles/76561199037435157/">steam</a></sub>
 </div>
 
 ###
