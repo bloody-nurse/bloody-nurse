@@ -5,11 +5,11 @@ $$
 
 
 $$
-{\small \color{#DE0075}\textsf{hello\ my\ name\ is\ katya\ im\ nice\ dont\ be\ shy\ to\ interact}}
+{\small \color{#FFFFFF}\textsf{hello\ my\ name\ is}\ \color{#DE0075}\textsf{katya}\ \color{#FFFFFF}\textsf{im\ nice}\ \color{#DE0075}\textsf{dont\ be\ shy}\ \color{#FFFFFF}\textsf{to\ interact}}
 $$
 
 $$
-{\small \color{#DE0075}\textsf{i\ have\ a\ tendency\ to\ dissociate\ and\ zone\ out\ from\ reality\ so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes.\ it's\ not\ about\ you\ -\ im\ still\ here!}}
+{\small \color{#FFFFFF}\textsf{i\ have\ a\ tendency\ to\ }\color{#DE0075}\textsf{dissociate}\ \color{#FFFFFF}\textsf{and\ zone\ out\ from\ reality\ so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes.\ it's\ not\ about\ you\ -\ im\ still\ here!}}
 $$
 
 
