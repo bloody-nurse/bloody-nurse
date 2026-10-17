@@ -1,17 +1,17 @@
 ###
 
 $$
-{\color{#ff4dab}\textsf{✧}}
+{\color{#ffb1da}\textsf{✧}}
 $$
 
 ###
 
 $$
-{\small \color{#ff4dab}\textsf{hello\ my\ name\ is\ katya\ im\ nice\ dont\ be\ shy\ to\ interact}}
+{\small \color{#ffb1da}\textsf{hello\ my\ name\ is\ katya\ im\ nice\ dont\ be\ shy\ to\ interact}}
 $$
 
 $$
-{\small \color{#ff4dab}\textsf{i\ have\ a\ tendency\ to\ dissociate\ and\ zone\ out\ from\ reality\ so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes.\ it's\ not\ about\ you\ -\ im\ still\ here!}}
+{\small \color{#ffb1da}\textsf{i\ have\ a\ tendency\ to\ dissociate\ and\ zone\ out\ from\ reality\ so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes.\ it's\ not\ about\ you\ -\ im\ still\ here!}}
 $$
 
 ###
@@ -36,7 +36,7 @@ $$
 ###
 
 $$
-{\color{#ff4dab}\textsf{✧}}
+{\color{#ffb1da}\textsf{✧}}
 $$
 
 ###
