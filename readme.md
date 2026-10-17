@@ -9,8 +9,7 @@ $$
 $$
 
 $$
-{\small \color{#FFFFFF}\textsf{i\ have\ a\ tendency\ to\ }\color{#DE0075}\textsf{dissociate}\ \color{#FFFFFF}\textsf{and\ zone\ out\ from\ reality\ so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes. \}  
-\color{#DE0075}\textsf{it's\ not\ about\ you\ -\ im\ still\ here!}}
+{\small \color{#FFFFFF}\textsf{i\ have\ a\ tendency\ to\ }\color{#DE0075}\textsf{dissociate}\ \color{#FFFFFF}\textsf{and\ zone\ out\ from\ reality\ so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes. \it's\ not\ about\ you\ -\ \color{#DE0075}\textsf{ im\ still\ here!}}
 $$
 
 
