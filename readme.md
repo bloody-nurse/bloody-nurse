@@ -5,7 +5,7 @@ $$
 
 
 $$
-{\small \color{#FFFFFF}\textsf{hello\ my\ name\ is}\ \color{#DE0075}\textsf{katya}\ \color{#FFFFFF}\textsf{◞}\ \color{#FFFFFF}\textsf{im\ nice}\ \color{#DE0075}\textsf{dont\ be\ shy}\ \color{#FFFFFF}\textsf{to\ interact}}
+{\small \color{#FFFFFF}\textsf{hello\ my\ name\ is}\ \color{#DE0075}\textsf{katya}\ \color{#FFFFFF}\textsf{im\ nice}\ \color{#DE0075}\textsf{dont\ be\ shy}\ \color{#FFFFFF}\textsf{to\ interact}}
 $$
 
 $$
