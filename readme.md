@@ -23,13 +23,6 @@ $$
 <img height="300" src="https://media1.tenor.com/m/GzDtPKLX2_kAAAAC/kiss-dva.gif"/>
 </div>
 
-###
-
-<div align="center">
-  <sub><a href="https://tokki-online.straw.page/">strawpage</a> <a href="https://steamcommunity.com/profiles/76561199037435157/">steam</a></sub>
-</div>
-
-###
 
 $$
 {\color{#DE0075}\textsf{✧}}
