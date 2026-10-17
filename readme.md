@@ -7,7 +7,7 @@ $$
 ###
 
 $$
-{\small \color{#ff4dab}\textsf{hello\ my\ name\ is\ katya\ ◞\ im\ nice\ dont\ be\ shy\ to\ interact}}
+{\small \color{#ff4dab}\textsf{hello\ my\ name\ is\ katya\ im\ nice\ dont\ be\ shy\ to\ interact}}
 $$
 
 $$
