@@ -7,23 +7,10 @@ $$
 ###
 
 $$
-{\small \color{#C7EEFA}\textsf{hello}\ \color{#BDE7F7}\textsf{my}\ \color{#B2DFF3}\textsf{name}\ \color{#A6D6ED}\textsf{is}\ \color{#98CDE7}\textsf{katya}}
+{\small \color{#C7EEFA}\textsf{hello}\ \color{#C7EEFA}\textsf{my}\ \color{#C7EEFA}\textsf{name}\ \color{#C7EEFA}\textsf{is}\ \color{#C7EEFA}\textsf{katya}\  \color{#C7EEFA}\textsf{im}\ \color{#C7EEFA}\textsf{nice}\ \color{#C7EEFA}\textsf{dont}\ \color{#C7EEFA}\textsf{be}\ \color{#C7EEFA}\textsf{shy}\ \color{#C7EEFA}\textsf{to}\ \color{#C7EEFA}\textsf{interact}}
 $$
-
 $$
-{\small \color{#C7EEFA}\textsf{im}\ \color{#BDE7F7}\textsf{nice}\ \color{#B2DFF3}\textsf{◞}\ \color{#A6D6ED}\textsf{dont}\ \color{#98CDE7}\textsf{be}\ \color{#8CC3E1}\textsf{shy}\ \color{#80B8D9}\textsf{to}\ \color{#74ADD1}\textsf{interact}}
-$$
-
-$$
-{\small \color{#C7EEFA}\textsf{i\ have\ a\ tendency\ to\ dissociate\ and\ zone\ out\ from\ reality}}
-$$
-
-$$
-{\small \color{#B2DFF3}\textsf{so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes.}}
-$$
-
-$$
-{\small \color{#98CDE7}\textsf{it's\ not\ about\ you\ -\ im\ still\ here!}}
+{\small \color{#BDE7F7}\textsf{i}\ \color{#BDE7F7}\textsf{have}\ \color{#BDE7F7}\textsf{a}\ \color{#BDE7F7}\textsf{tendency}\ \color{#BDE7F7}\textsf{to}\ \color{#BDE7F7}\textsf{dissociate}\ \color{#BDE7F7}\textsf{and}\ \color{#BDE7F7}\textsf{zone}\ \color{#BDE7F7}\textsf{out}\ \color{#BDE7F7}\textsf{from}\ \color{#BDE7F7}\textsf{reality}\ \color{#BDE7F7}\textsf{so}\ \color{#BDE7F7}\textsf{i}\ \color{#BDE7F7}\textsf{might}\ \color{#BDE7F7}\textsf{seem}\ \color{#BDE7F7}\textsf{quiet}\ \color{#BDE7F7}\textsf{or}\ \color{#BDE7F7}\textsf{be}\ \color{#BDE7F7}\textsf{on}\ \color{#BDE7F7}\textsf{autopilot}\ \color{#BDE7F7}\textsf{sometimes}\ \color{#BDE7F7}\textsf{it's}\ \color{#BDE7F7}\textsf{not}\ \color{#BDE7F7}\textsf{about}\ \color{#BDE7F7}\textsf{you}\ \color{#BDE7F7}\textsf{-}\ \color{#BDE7F7}\textsf{im}\ \color{#BDE7F7}\textsf{still}\ \color{#BDE7F7}\textsf{here!}}
 $$
 
 ###
@@ -37,7 +24,7 @@ $$
 ###
 
 <div align="center">
-<img height="300" src="https://i.postimg.cc/D0ZJ3DMB/122323231123.png"/>
+<img height="300" src="https://media1.tenor.com/m/GzDtPKLX2_kAAAAC/kiss-dva.gif"/>
 </div>
 
 ###
@@ -49,7 +36,7 @@ $$
 ###
 
 $$
-{\color{#899081}\textsf{✧}}
+{\color{#B9E7F5}\textsf{✧}}
 $$
 
 ###
