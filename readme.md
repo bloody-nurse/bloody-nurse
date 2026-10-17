@@ -1,7 +1,7 @@
 ###
 
 $$
-{\color{#DE0075}\textsf{✧}}
+{\color{#ff4dab}\textsf{✧}}
 $$
 
 ###
@@ -30,13 +30,13 @@ $$
 ###
 
 <div align="center">
-  <sub><a href="https://killed-by-an-angel.straw.page/">strawpage</a> <a href="https://steamcommunity.com/profiles/76561199037435157/">steam</a></sub>
+  <sub><a href="https://tokki-online.straw.page/">strawpage</a> <a href="https://steamcommunity.com/profiles/76561199037435157/">steam</a></sub>
 </div>
 
 ###
 
 $$
-{\color{#B9E7F5}\textsf{✧}}
+{\color{#ff4dab}\textsf{✧}}
 $$
 
 ###
