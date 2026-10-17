@@ -1,23 +1,38 @@
 ###
 
 $$
-{\color{#899081}\textsf{✧}}
+{\color{#B9E7F5}\textsf{✧}}
 $$
 
 ###
 
 $$
-{\small \color{#2e1426}\textsf{i}\ \color{#3a1730}\textsf{am}\ \color{#45223b}\textsf{nice}\ \color{#503046}\textsf{◞}\ \color{#5a3d50}\textsf{dont}\ \color{#654a5b}\textsf{be}\ \color{#6f5866}\textsf{shy}\ \color{#6e6d60}\textsf{to}\ \color{#899081}\textsf{interact}}
+{\small \color{#C7EEFA}\textsf{hello}\ \color{#BDE7F7}\textsf{my}\ \color{#B2DFF3}\textsf{name}\ \color{#A6D6ED}\textsf{is}\ \color{#98CDE7}\textsf{katya}}
 $$
+
 $$
-{\small \color{#2e1426}\textsf{basic}\ \color{#37142d}\textsf{dni}\ \color{#401c35}\textsf{criteria}\ \color{#48243d}\textsf{;}\ \color{#512d45}\textsf{dni}\ \color{#59354d}\textsf{if}\ \color{#623d55}\textsf{you}\ \color{#6a455d}\textsf{have}\ \color{#724d65}\textsf{problems}\ \color{#6d5d5f}\textsf{with}\ \color{#686d59}\textsf{my}\ \color{#737766}\textsf{friends}\ \color{#737766}\textsf{;}\ \color{#899081}\textsf{iwec}\ \color{#9ba193}\textsf{if\ you\ are\ 15-}}
+{\small \color{#C7EEFA}\textsf{im}\ \color{#BDE7F7}\textsf{nice}\ \color{#B2DFF3}\textsf{◞}\ \color{#A6D6ED}\textsf{dont}\ \color{#98CDE7}\textsf{be}\ \color{#8CC3E1}\textsf{shy}\ \color{#80B8D9}\textsf{to}\ \color{#74ADD1}\textsf{interact}}
+$$
+
+$$
+{\small \color{#C7EEFA}\textsf{i\ have\ a\ tendency\ to\ dissociate\ and\ zone\ out\ from\ reality}}
+$$
+
+$$
+{\small \color{#B2DFF3}\textsf{so\ i\ might\ seem\ quiet\ or\ be\ on\ autopilot\ sometimes.}}
+$$
+
+$$
+{\small \color{#98CDE7}\textsf{it's\ not\ about\ you\ -\ im\ still\ here!}}
 $$
 
 ###
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=froglinggg.froglinggg&right_color=%232f0c25&left_text=hearts " />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=froglinggg.froglinggg&right_color=%2374ADD1&left_text=hearts" />
 </div>
+
+###
 
 ###
 
