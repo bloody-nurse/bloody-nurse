@@ -20,7 +20,7 @@ $$
 ###
 
 <div align="center">
-<img height="300" src="https://64.media.tumblr.com/0bdef649d2e6cfdb71a6a30b2cf9cdcf/f458e955afd8e001-23/s250x400/d84c53295e2c41c3bea0ce4fdb0cf263dff88ad9.gifv"/>
+<img height="300" src="https://64.media.tumblr.com/136461152f3be431dc53ea0ef6234b22/6e1858a44d6da3d1-a0/s500x750/79017dcf38a16e6ad1c60241809fb32792f51b02.gifv"/>
 </div>
 
 ###
